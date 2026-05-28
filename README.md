@@ -12,11 +12,6 @@ I'm a web development learner building clean, responsive projects and learning h
 - Learning n8n, AI automation, and practical workflow automation
 - Publishing projects with GitHub Pages and improving them over time
 
-## Featured project
-
-[**Ganiya Wedding Invitation**](https://github.com/Zoy-3/Ganiya-Wedding-Invitation)  
-A wedding invitation website built with HTML and deployed through GitHub Pages.
-
 ## Tech and tools I'm learning
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
